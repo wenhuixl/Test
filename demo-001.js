@@ -19,3 +19,5 @@ var b = {name: 'xiaosi'};
 
 console.log('a:', a)
 console.log('b:', b)
+
+console.log('this is test');
